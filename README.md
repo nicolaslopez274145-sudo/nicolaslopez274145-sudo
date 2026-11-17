@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Nicolás López 👋
 
-<!--
-**nicolaslopez274145-sudo/nicolaslopez274145-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Full Stack · JavaScript/TypeScript · Automatización e IA aplicada**  
+📍 Nicaragua · [GitLab](https://gitlab.com/nicolaslopez274145)
 
-Here are some ideas to get you started:
+Soy desarrollador de software con experiencia profesional en análisis de sistemas, análisis de datos y desarrollo Full Stack. Trabajo principalmente con **JavaScript y TypeScript**, y me interesa crear soluciones prácticas, documentadas y mantenibles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy construyendo **Desarvia** (*nombre corporativo pendiente de verificación registral*), una iniciativa de productos de software, y desarrollando su primera plataforma comercial: **Punto Local**.
+
+## Proyecto destacado
+
+### [Punto Local](https://github.com/nicolaslopez274145-sudo/tienda-multinegocio) · En desarrollo
+
+Plataforma de gestión comercial multi-tenant con módulos de productos, ventas, compras, inventario, clientes y caja. El repositorio público contiene una base TypeScript con React/Vite y API Next.js; la arquitectura para el lanzamiento comercial sigue en evaluación.
+
+> **Estado:** prototipo en desarrollo. No se presenta como producto lanzado ni como sistema fiscal autorizado.
+
+## Otros proyectos personales
+
+- **JAHI:** asistente para desarrolladores con gestión de contexto y herramientas. *En desarrollo; repositorio público pendiente.*
+- **Platform Games:** prototipos de videojuegos web creados para aprender y experimentar. *Repositorio público pendiente.*
+- **Applotonic:** *descripción y repositorio por documentar.*
+
+## Tecnologías
+
+**Uso principal:** JavaScript · TypeScript · React · Node.js · Linux · Git  
+**Experiencia complementaria:** PHP/Laravel · Python (datos y ML) · SQL · infraestructura y despliegues  
+**Conocimientos previos:** C#/.NET (académico) · Docker · herramientas de análisis de datos
+
+## Cómo trabajo
+
+Me interesa comprender el problema antes de programar, construir software con pruebas y documentación y utilizar herramientas de IA como apoyo al desarrollo bajo revisión humana.
+
+**Enlaces:** [GitLab](https://gitlab.com/nicolaslopez274145) · Portafolio personal *(pendiente de publicación)*
+
+---
+*Este perfil muestra trabajo personal autorizado para publicación. Los proyectos profesionales sujetos a confidencialidad no se reproducen aquí.*
